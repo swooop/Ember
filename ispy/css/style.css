@@ -1,0 +1,15 @@
+/* Put your CSS here */
+html, body {
+    }
+
+h2 {
+  font-size: 24px;
+  color: green;
+  font-weight: normal;
+
+  
+}
+
+ol, ul {
+  margin-left: 25px;
+}
